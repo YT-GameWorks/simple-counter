@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/yt-gameworks.github.io/simple-counter/static/js/main.6368eab5.chunk.js",
+    "main.js.map": "/yt-gameworks.github.io/simple-counter/static/js/main.6368eab5.chunk.js.map",
+    "runtime-main.js": "/yt-gameworks.github.io/simple-counter/static/js/runtime-main.9bb920fa.js",
+    "runtime-main.js.map": "/yt-gameworks.github.io/simple-counter/static/js/runtime-main.9bb920fa.js.map",
+    "static/js/2.cb4ab5f6.chunk.js": "/yt-gameworks.github.io/simple-counter/static/js/2.cb4ab5f6.chunk.js",
+    "static/js/2.cb4ab5f6.chunk.js.map": "/yt-gameworks.github.io/simple-counter/static/js/2.cb4ab5f6.chunk.js.map",
+    "static/js/3.e18732bb.chunk.js": "/yt-gameworks.github.io/simple-counter/static/js/3.e18732bb.chunk.js",
+    "static/js/3.e18732bb.chunk.js.map": "/yt-gameworks.github.io/simple-counter/static/js/3.e18732bb.chunk.js.map",
+    "index.html": "/yt-gameworks.github.io/simple-counter/index.html",
+    "static/js/2.cb4ab5f6.chunk.js.LICENSE.txt": "/yt-gameworks.github.io/simple-counter/static/js/2.cb4ab5f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bb920fa.js",
+    "static/js/2.cb4ab5f6.chunk.js",
+    "static/js/main.6368eab5.chunk.js"
+  ]
+}
